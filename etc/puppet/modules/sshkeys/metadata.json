@@ -1,0 +1,24 @@
+{
+  "author": "fasu",
+  "checksums": {
+    "manifests/init.pp": "85eec691d4debc054fb8ca821d1b734c",
+    "tests/init.pp": "d154d0197e14f2a7b113cc776f6bbae3",
+    "README": "fceceb0f884981fcc349fac50c7f60e4",
+    "templates/authorized_keys.erb": "bbd043fecf5e7f3887b6e6900181d8db",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "Modulefile": "8be87568e077beeb74614e6c70f8ad51"
+  },
+  "source": "UNKNOWN",
+  "project_page": "UNKNOWN",
+  "license": "Apache License, Version 2.0",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "description": "Module for managing ssh keys in /root/.ssh/authorized_keys",
+  "name": "fasu-sshkeys",
+  "version": "0.0.2",
+  "summary": "Module for managing ssh keys in /root/.ssh/authorized_keys"
+}

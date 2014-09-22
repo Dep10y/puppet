@@ -1,0 +1,6 @@
+name    'fasu-sshkeys'
+version '0.0.2'
+author 'fasu'
+license 'Apache License, Version 2.0'
+summary 'Module for managing ssh keys in /root/.ssh/authorized_keys'
+description 'Module for managing ssh keys in /root/.ssh/authorized_keys'
